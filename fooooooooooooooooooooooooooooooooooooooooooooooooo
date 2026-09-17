@@ -3,28 +3,32 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>parede</title>
+   <title>Parede</title>
 </head>
 <body>
    <header class ="cabecalho">
-       <h1>parede e bonita</h1>
+       <h1>Parede e bonita</h1>
        <nav>
            <a href="#" class="cabecalho-link">inicio</a>
        </nav>
    </header>
    <main>
-       <h2>parede me protege</h2>
+       <h2>Parede me protege</h2>
        <section>
            <article class="cartao">
                <div class="cartao-interno">
                 <div class="cartao-frente">
                 <img src="https://img.magnific.com/vetores-gratis/parede-de-tijolos-realista_1284-4683.jpg?semt=ais_hybrid&w=740&q=80" alt="parede" class="cartao-imagem">
-                </div>
-               </div>-
-           </article>
+                <p>Paredes ficam em pé sem cimento?</p>
+            </div>
+            <div class="cartao-verso">
+            <img src="https://revistaoeste.com/oestegeral/wp-content/uploads/2026/04/Wall_with_boiserie_202604111924.jpg" alt="parede" class="cartao-imagem">
+            <p>usando técnicas de encaixe de pedras (muro de pedra seca), estruturas de madeira ou bambu com preenchimento de barro (pau a pique), ou argamassas naturais de terra e cal</p>
+            </div>
+            </div>-
+        </article>
        </section>
    </main>
 </body>
 </html>
-
 
