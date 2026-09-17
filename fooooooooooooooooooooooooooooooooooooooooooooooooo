@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>parede</title>
+</head>
+<body>
+   <header class ="cabecalho">
+       <h1>parede e bonita</h1>
+       <nav>
+           <a href="#" class="cabecalho-link">inicio</a>
+       </nav>
+   </header>
+   <main>
+       <h2>parede me protege</h2>
+       <section>
+           <article class="cartao">
+               <div class="cartao-interno">
+                <div class="cartao-frente">
+                <img src="https://img.magnific.com/vetores-gratis/parede-de-tijolos-realista_1284-4683.jpg?semt=ais_hybrid&w=740&q=80" alt="parede" class="cartao-imagem">
+                </div>
+               </div>-
+           </article>
+       </section>
+   </main>
+</body>
+</html>
+
 
