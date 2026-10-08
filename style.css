@@ -25,11 +25,13 @@
         min-height: 100vh;
         background-color: antiquewhite;
     }
-    main{* {
-    margin: 0;
-    padding: 0;
+    main{
+    flex: 1;
+    display: flex;
+        flex-direction:colunm;
+        align-itens: center;
 }
-.cabecalho{
+.cabecalho-link {
     padding: 15px 25px;
     display: flex;
     justify-content: space-between;
